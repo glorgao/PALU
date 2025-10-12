@@ -1,8 +1,8 @@
-## PALU: Concise Reasoning through Lagrangian Optimization
+## PALU: Concise Reasoning in the Lens of Lagrangian Optimization
 
-This repository hosts the code, W&B logs, and finetuned models for our paper [Concise Reasoning in the Lens of Lagrangian Optimization](). Our proposed algorithm, PALU (Performance-Aware Length Update), frames concise reasoning as a performance-constrained length reduction problem, optimizing for the shortest reasoning path that still meets a target accuracy.
+This repository hosts the code, W&B logs, and finetuned models for [our paper](). The proposed algorithm, PALU (Performance-Aware Length Update), frames concise reasoning as a performance-constrained length reduction problem, optimizing for the shortest reasoning path that still meets a target accuracy.
 
-<br><br>
+<br>
 
 ### 🚀 Key Highlights
 
@@ -16,7 +16,7 @@ This repository hosts the code, W&B logs, and finetuned models for our paper [Co
 
 - Evaluated on the DeepSeek-R1-Distill-Qwen model family.
 
-<br><br>
+<br>
 
 
 ### 📦 Resources
@@ -27,7 +27,7 @@ This repository hosts the code, W&B logs, and finetuned models for our paper [Co
 | 📄 **Research Paper**           | Detailed methodology, experiments, and analysis | *Coming soon* |
 
 
-<br><br>
+<br>
 
 ### 📜 Poster Overview
 
