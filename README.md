@@ -23,7 +23,7 @@ This repository hosts the code, W&B logs, and finetuned models for [our paper](h
 | Resource                        | Description                                     | Availability  |
 | ------------------------------- | ----------------------------------------------- | ------------- |
 | 🧠 **W&B Logs**                 | Full experiment tracking and visualization      | *Coming soon* |
-| 🤗 **Hugging Face Checkpoints** | Fine-tuned PALU models                          | *Coming soon* |
+| 🤗 **Hugging Face Checkpoints** | Fine-tuned PALU models                          | [Huggingface page](https://huggingface.co/glorgao/PALU-1.5B) |
 | 📄 **Research Paper**           | Detailed methodology, experiments, and analysis | [Arixv](https://arxiv.org/pdf/2510.10168) |
 
 
